@@ -35,3 +35,39 @@ INSERT INTO tbl_restaurant_menus VALUES(1602, 1, 'Subway', 8, 'Monterey Cheddar'
 INSERT INTO tbl_restaurant_menus VALUES(1602, 1, 'Subway', 9, 'Pepper Jack', '6" long', 4, 2.5, 0, 15, 240, 1, 0, 0, 3, 0, 0, 0, 0, SYSTIMESTAMP);
 INSERT INTO tbl_restaurant_menus VALUES(1602, 1, 'Subway', 10, 'Provolone', '6" long', 4, 2, 0, 10, 125, 0, 0, 0, 4, 4, 0, 8, 0, SYSTIMESTAMP);
 INSERT INTO tbl_restaurant_menus VALUES(1602, 1, 'Subway', 11, 'Swiss', '6" long', 4.5, 2.5, 0, 15, 30, 0, 0, 0, 4, 6, 0, 10, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(2604, 1, 'Subway', 12, 'Bacon', '2 Strips', 6, 2.5, 0, 15, 170, 1, 0, 1, 5, 0, 0, 0, 8, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8012, 1, 'Subway', 13, 'Guacamole', 'Spread on 6"', 6, 1, 0, 0, 105, 3, 2, 0, 1, 2, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(2608, 1, 'Subway', 14, 'Pepperoni', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8010, 1, 'Subway', 15, 'Caesar', 'Spread on 6"', 9, 1.5, 0, 5, 130, 0, 0, 0, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8010, 1, 'Subway', 16, 'Chipotle Southwest', 'Spread on 6"', 7, 1, 0, 5, 110, 1, 0, 1, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8406, 1, 'Subway', 17, 'Honey Mustard', 'Spread on 6"', 0, 0, 0, 0, 80, 4, 0, 4, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8010, 1, 'Subway', 18, 'Light Mayonnaise', 'Spread on 6"', 5, 1, 0, 5, 100, 1, 0, 0, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8012, 1, 'Subway', 19, 'Oil', 'Spread on 6"', 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8010, 1, 'Subway', 20, 'Ranch', 'Spread on 6"', 8, 1.5, 0, 5, 140, 1, 0, 1, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8408, 1, 'Subway', 21, 'Red Wine Vinegar', 'Spread on 6"', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8010, 1, 'Subway', 22, 'Regular Mayonnaise', 'Spread on 6"', 11, 2, 0, 10, 65, 0, 0, 0, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8408, 1, 'Subway', 23, 'Subway Vinaigrette', 'Spread on 6"', 3.5, 0.5, 0, 0, 110, 1, 0, 1, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8404, 1, 'Subway', 24, 'Sweet Onion Teriyaki', 'Spread on 6"', 0, 0, 0, 0, 130, 7, 0, 8, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8406, 1, 'Subway', 25, 'Yellow Mustard', 'Spread on 6"', 0.5, 0, 0, 0, 170, 1, 0, 0, 0, 0, 0, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8408, 1, 'Subway', 26, 'Banana Peppers', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8408, 1, 'Subway', 27, 'Black Olives', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(6408, 1, 'Subway', 28, 'Cucumbers', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(6408, 1, 'Subway', 29, 'Green Chile', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(6408, 1, 'Subway', 30, 'Green Peppers', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8408, 1, 'Subway', 31, 'Jalapenos', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(6410, 1, 'Subway', 32, 'Lettus', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(8408, 1, 'Subway', 33, 'Pickles', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(6414, 1, 'Subway', 34, 'Red Onions', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(6408, 1, 'Subway', 35, 'Spinach', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(6402, 1, 'Subway', 36, 'Tomatoes', 'Topping on 6"', 7, 2.5, 0, 20, 290, 1, 0, 0, 3, 0, 4, 0, 0, SYSTIMESTAMP);
+INSERT INTO tbl_restaurant_menus VALUES(1602, 1, 'Subway', 37, 'Parmesan Cheese', 'Topping on 6"', 0, 0, 0, 0, 25, 0, 0, 0, 1, 0, 0, 0, 0, SYSTIMESTAMP);
+
+
+
+
+
+
+
+
+
+
